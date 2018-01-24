@@ -1,4 +1,4 @@
-# Node Starter
+# Node Server
 ___
 
 It's a simple starter to begin a nodejs server. 

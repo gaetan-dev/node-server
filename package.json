@@ -1,5 +1,5 @@
 {
-  "name": "node-starter",
+  "name": "node-server",
   "version": "1.0.0",
   "description": "Node starter with ES2017 & Wepback",
   "main": "src/app.js",
